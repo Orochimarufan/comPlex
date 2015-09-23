@@ -8,7 +8,7 @@ VLC is used for video playback (see MainWindow.playVideo method in gui.py)
 
 [plex]: https://plex.tv
 [Python]: https://python.org
-[PyQt]: https://riverbankcomputing.co.uk
+[PyQt]: https://riverbankcomputing.com
 
 Running
 -------
